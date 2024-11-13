@@ -1,0 +1,88 @@
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car  9.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 1.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 10.webp
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 11.webp
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 12.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 13.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 14.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 15.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 16.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 17.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 18.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 19.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 2.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 20.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 21.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 22.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 23.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 24.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 25.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 26.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 27.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 28.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 29.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 3.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 30.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 31.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 32.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 33.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 34.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 35.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 36.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 37.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 38.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 39.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 4.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 40.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 41.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 5.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 6.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 7.jfif
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/car 8.jpg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro1.jpg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro10.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro11.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro12.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro13.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro14.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro15.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro16.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro17.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro18.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro19.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro2.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro20.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro21.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro22.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro23.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro24.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro25.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro26.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro27.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro28.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro29.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro3.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro30.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro31.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro4.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro5.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro6.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro7.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro8.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/carro9.jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (1).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (10).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (11).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (12).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (13).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (14).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (15).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (16).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (2).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (3).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (4).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (5).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (6).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (7).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (8).jpeg
+D:/ESP_ MACHINE_LEARNING/MACHINE_LEARNING 2/Encuentro_final/DATA/Train/images/images (9).jpeg
